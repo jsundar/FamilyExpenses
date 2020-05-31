@@ -1,0 +1,6 @@
+com\mkyong\stock\model\Stock.class
+com\mkyong\common\App.class
+com\mkyong\stock\dao\impl\StockDaoImpl.class
+com\mkyong\stock\bo\impl\StockBoImpl.class
+com\mkyong\stock\dao\StockDao.class
+com\mkyong\stock\bo\StockBo.class
